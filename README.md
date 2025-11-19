@@ -34,7 +34,7 @@ Geometry that wins.
 
 | Solver                  | Handles 10,000 cities? | Improvement vs Nearest Neighbor | Runtime (typical) | Language     |
 |-------------------------|------------------------|----------------------------------|-------------------|--------------|
-| **Cook's Ruler**        | Yes                    | **+10.0%**                       | **~20–25 min**    | Pure Python  |
+| **Cook's Ruler**        | Yes                    | **+10.0%**                       | **<17 min**       | Pure Python  |
 | OR-Tools (Google)       | Yes                    | +8–12%                           | 2–10 minutes      | C++          |
 | PyVRP                   | Yes                    | +10–14%                          | 5–20 minutes      | C++          |
 | LKH-3 (Helsgaun)        | Yes                    | +15–18%                          | 3–15 minutes      | C            |
