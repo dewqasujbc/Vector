@@ -71,16 +71,16 @@ It doesn't beat LKH-3 on quality — **yet** — but it **crushes** everything e
 > Pure Euclidean distance — no Earth curvature  
 > GA + 3-opt local search on top of Cook's Ruler seed  
 
-### Cooks Ruler Sweep Euclidean Monster vs other Flat Space solvers  (2025–2030)
+### 100-Point Warehouse Data – Pure Euclidean (x/y)
 
-| Solver                        | Improvement over Nearest Neighbor on Warehouse Data |
-|-------------------------------|-------------------------------------------------------|
-| LKH-3                         | +5–12%                                                |
-| OR-Tools (Guided Local Search)| +3–8%                                                 |
-| PyVRP                         | +4–9%                                                 |
-| **Cooks Ruler Euclidean**     | **+2.8%**                                             |
+| Solver                        | Improvement vs NN | Runtime (laptop) | Lines of Code | Language     | Notes |
+|-------------------------------|-------------------|------------------|---------------|--------------|-------|
+| LKH-3                         | +6–10%            | < 0.1 sec        | ~50,000       | C            | Academic champion |
+| OR-Tools                      | +4–7%             | 0.1–0.5 sec     | ~10,000       | C++/Python   | Industry standard |
+| PyVRP                         | +5–8%             | 0.2–1 sec        | ~8,000        | Python/C++   | Best open-source |
+| **Cooks Ruler Euclidean**     | **+2.8%**         | **1.1 sec**  | **150**       | Pure Python  | No compilation, no dependencies |
 
-**150 lines of Pure Python** No C++. No external solvers.  
+**150 lines of Pure Python** No C++. No external solvers. No training. Just Geometry. 
 
 ### How to test your own data
 
