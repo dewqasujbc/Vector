@@ -27,7 +27,7 @@ Just geometry.
 
 Geometry that wins.
 
-### Real Robot Navigation Paths — CareerCon 2019 (Kaggle)
+### Real Robot Navigation Paths — CareerCon 2019 (Kaggle) **-1,000 Points**
 
 | Solver               | Improvement vs NN | Runtime (1k points) | Lines of Code |
 |----------------------|-------------------|---------------------|---------------|
