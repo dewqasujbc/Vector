@@ -91,12 +91,29 @@ Cook's Ruler gives you a **slightly longer tour, but always on the current reali
 **Cook's Ruler doesn’t win on paper.**  
 **It wins where robots actually move.**
 
+---
+
 **Pricing**  
 - Desktop binary: **$1,999** one-time  
 - Self-hosted server: **$29,999** one-time  
 - Enterprise tuning: **$150,000+** one-time  
 
-Zero support · Zero cloud · Zero excuses  
+Zero support · Zero cloud · Zero excuses
+---
 
-**Test it on your data today.**  
+**Test it on your data today.** <br/>
+python3 cooks_ruler_desktop.py <br/>
+<br/>
+Your CSV needs three columns: `id`, `x`, `y` (or `lat`, `lon` for Earth) <br/>
+
+Example warehouse file.csv <br/>
+id,x,y <br/>
+A01,12.5,88.2 <br/>
+A02,45.1,23.9 <br/>
+<br/>
+Example city file.csv <br/>
+id,lat,lon <br/>
+A01,38.8,42,4 <br/>
+A02,77.3,56.3 <br/>
+Enjoy! <br/>
 Orionis Labs LLC — 2025
